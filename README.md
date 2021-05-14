@@ -1,4 +1,4 @@
-![Header](https://github.com/shivamdshon/about-me/header.png)
+![Header](https://github.com/shivamdshon/shivamdshon/blob/main/header.png)
 ## Aspiring Full Stack Developer :coffee: | freeCodeCamp Student 👩‍💻 | Technical Content Writer :writing_hand: |  Open Source Contributor :fire:  | Loves Coding and Coffee :space_invader:     [![GitHub](https://img.shields.io/github/license/shivamdshon/shivamdshon?color=blue)](https://github.com/shivamdshon/about-me/LICENSE) 
 
 
@@ -6,8 +6,8 @@
   <a target="_blank" href="https://github.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/github.svg" align="left" width="45" height="45" /></a>
   <a target="_blank" href="https://www.linkedin.com/in/shivamdshon/"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/linkedin.svg"align="left"  width="45" height="45" /></a>
   <a target="_blank" href="mailto:ishivamyadav@gmail.com"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/google.svg" align="left" width="45" height="45" /></a>
-  <a target="_blank" href="https://shivamdshon.medium.com/"><img src="https://github.com/shivamdshon/shivamdshon/shivamdshon/blob/main/medium.svg" align="left"  width="45" height="45"  /></a>
-  <a target="_blank" href="https://gitlab.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/shivamdshon/blob/main/gitlab.svg" align="left" width="45" height="45" /></a>
+  <a target="_blank" href="https://shivamdshon.medium.com/"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/medium.svg" align="left"  width="45" height="45"  /></a>
+  <a target="_blank" href="https://gitlab.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/gitlab.svg" align="left" width="45" height="45" /></a>
   </div>    
   
   </br> 
@@ -20,8 +20,7 @@
 ### [Contact Me](#reach-out-to-me-)    
 
 
-<!--### [See My Resume](https://drive.google.com/file/d/1oWpdqwrt1v27VUTNDT3AELWQII-iWVop/view?usp=sharing)    
--->
+### [See My Resume](https://drive.google.com/file/d/1oWpdqwrt1v27VUTNDT3AELWQII-iWVop/view?usp=sharing)
 
 <html>
   <div class="container">
