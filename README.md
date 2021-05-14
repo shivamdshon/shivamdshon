@@ -3,11 +3,11 @@
 
 
  <div class="contact">
-  <a target="_blank" href="https://github.com/shivamdshon"><img src="https://github.com/shivamdshon/blob/main/github.svg" align="left" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/shivamdshon/"><img src="https://github.com/blob/main/shivamdshon/about-me/linkedin.svg"align="left"  width="45" height="45" /></a>
-  <a target="_blank" href="mailto:ishivamyadav@gmail.com"><img src="https://github.com/shivamdshon/blob/main/about-me/google.svg" align="left" width="45" height="45" /></a>
-  <a target="_blank" href="https://shivamdshon.medium.com/"><img src="https://github.com/shivamdshon/blob/main/about-me/medium.svg" align="left"  width="45" height="45"  /></a>
-  <a target="_blank" href="https://gitlab.com/shivamdshon"><img src="https://github.com/shivamdshon/blob/main/about-me/gitlab.svg" align="left" width="45" height="45" /></a>
+  <a target="_blank" href="https://github.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/github.svg" align="left" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/shivamdshon/"><img src="https://github.com/shivamdshon/blob/main/shivamdshon/about-me/linkedin.svg"align="left"  width="45" height="45" /></a>
+  <a target="_blank" href="mailto:ishivamyadav@gmail.com"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/about-me/google.svg" align="left" width="45" height="45" /></a>
+  <a target="_blank" href="https://shivamdshon.medium.com/"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/about-me/medium.svg" align="left"  width="45" height="45"  /></a>
+  <a target="_blank" href="https://gitlab.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/about-me/gitlab.svg" align="left" width="45" height="45" /></a>
   </div>    
   
   </br> 
@@ -66,14 +66,14 @@ Here are some ideas to get you started:
 
 ### **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 </br>        
 
@@ -101,16 +101,16 @@ Here are some ideas to get you started:
 <html>
  </br>
   <div class="location">
-    <p><img src="https://github.com/shivamdshon/about-me/location.svg" style="vertical-align:middle" /> Lucknow , India</p>
+    <p><img src="https://github.com/shivamdshon/shivamdshon/blob/main/location.svg" style="vertical-align:middle" /> Lucknow , India</p>
   </div>
   </br>
   <div class="contact">
-  <a target="_blank" href="https://github.com/shivamdshon"><img align="left" src="https://github.com/shivamdshon/about-me/github.svg" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/shivamdshon/"><img align="left" src="https://github.com/shivamdshon/about-me/linkedin.svg" width="45" height="45" /></a>
-  <a target="_blank" href="mailto:ishivamyadav@gmail.com"><img align="left" src="https://github.com/shivamdshon/about-me/google.svg" width="45" height="45" /></a>
-  <a target="_blank" href="https://medium.com/@shivamdshon"><img align="left" src="https://github.com/shivamdshon/about-me/medium.svg" width="45" height="45"  /></a>
-  <a target="_blank"  href="https://gitlab.com/shivamdshon"><img align="left" src="https://github.com/shivamdshon/about-me/gitlab.svg" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.facebook.com/shivamdshon"><img align="left" src="https://github.com/shivamdshon/about-me/facebook.svg" width="45" height="45"  /></a>   
+  <a target="_blank" href="https://github.com/shivamdshon"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/github.svg" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/shivamdshon/"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/linkedin.svg" width="45" height="45" /></a>
+  <a target="_blank" href="mailto:ishivamyadav@gmail.com"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/google.svg" width="45" height="45" /></a>
+  <a target="_blank" href="https://medium.com/@shivamdshon"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/medium.svg" width="45" height="45"  /></a>
+  <a target="_blank"  href="https://gitlab.com/shivamdshon"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/gitlab.svg" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.facebook.com/shivamdshon"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/facebook.svg" width="45" height="45"  /></a>   
   </div>
 </html>
 
