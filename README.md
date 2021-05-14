@@ -26,13 +26,15 @@
   <div class="container">
   <div class="row">
     <div class="col">
-      <img align="right" src="https://github.com/shivamdshon/shivamdshon/blob/main/tenor.gif" class="card-img" width="200" height="250"  alt="" />
+      <img align="right" src="https://github.com/shivamdshon/shivamdshon/blob/main/tenor.gif" class="card-img" width="200" height="200"  alt="" />
     </div>
     <div class="col">
           <h3 class="card-title">What I Do</h3>
-            <p class="card-text">I'm a passionate and curious software developer who wants to explore every stack and tech there is out there. 
+            <p class="card-text">I'm a passionate and curious software developer who wants to explore every stack and tech there is out there.<br/>
                                 I  develop highly interactive Front end / User Interfaces for your web and mobile applications.
-                                 I write technical articles on medium.com and I'm also a freelance web developer.<br/>
+                                 I write technical articles on medium.com and I'm also a freelance web developer.<br/>Freelance Website Designed by me:
+                                 > <a href="https://thereyougloww.com">There You Gloww</a>
+                                 > <a href="https://joweddingplanners.com">Jo Wedding Planners</a>
                                   I have created Web Apps in Nodejs, Reactjs, Express, CSS, Html.<br/>
                                   I'm a fluent C++ programmer.</p>
     </div>
