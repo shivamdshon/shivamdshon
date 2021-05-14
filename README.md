@@ -26,7 +26,7 @@
   <div class="container">
   <div class="row">
     <div class="col">
-      <img align="right" src="https://github.com/shivamdshon/shivamdshon/blob/main/tenor.gif" class="card-img" width="130" height="150"  alt="" />
+      <img align="right" src="https://github.com/shivamdshon/shivamdshon/blob/main/tenor.gif" class="card-img" width="150" height="160"  alt="" />
     </div>
     <div class="col">
           <h3 class="card-title">What I Do</h3>
@@ -110,7 +110,7 @@ Here are some ideas to get you started:
   <a target="_blank" href="https://www.linkedin.com/in/shivamdshon/"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/linkedin.svg" width="45" height="45" /></a>
   <a target="_blank" href="mailto:ishivamyadav@gmail.com"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/gmail.svg" align="left" width="45" height="45" /></a>
   <a target="_blank" href="https://https://wa.link/mswzp1/"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/whatsapp.svg" align="left"  width="45" height="45"  /></a>
-  <a target="_blank" href="https://instagram.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/instagram.svg" align="left" width="45" height="45" /></a><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/facebook.svg" width="45" height="45"  /></a>   
+  <a target="_blank" href="https://instagram.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/instagram.svg" align="left" width="45" height="45" /></a><a target="_blank" href="https://facebook.com/shivamdshon"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/facebook.svg" width="45" height="45"  /></a>   
   </div>
 </html>
 
