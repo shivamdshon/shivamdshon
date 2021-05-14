@@ -5,9 +5,9 @@
  <div class="contact">
   <a target="_blank" href="https://github.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/github.svg" align="left" width="45" height="45" /></a>
   <a target="_blank" href="https://www.linkedin.com/in/shivamdshon/"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/linkedin.svg"align="left"  width="45" height="45" /></a>
-  <a target="_blank" href="mailto:ishivamyadav@gmail.com"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/google.svg" align="left" width="45" height="45" /></a>
-  <a target="_blank" href="https://shivamdshon.medium.com/"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/medium.svg" align="left"  width="45" height="45"  /></a>
-  <a target="_blank" href="https://gitlab.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/gitlab.svg" align="left" width="45" height="45" /></a>
+  <a target="_blank" href="mailto:ishivamyadav@gmail.com"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/gmail.svg" align="left" width="45" height="45" /></a>
+  <a target="_blank" href="https://https://wa.link/mswzp1/"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/whatsapp.svg" align="left"  width="45" height="45"  /></a>
+  <a target="_blank" href="https://instagram.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/instagram.svg" align="left" width="45" height="45" /></a>
   </div>    
   
   </br> 
@@ -26,13 +26,13 @@
   <div class="container">
   <div class="row">
     <div class="col">
-      <img align="right" src="https://github.com/shivamdshon/shivamdshon/blob/main/tenor.gif" class="card-img" width="120" height="160"  alt="" />
+      <img align="right" src="https://github.com/shivamdshon/shivamdshon/blob/main/tenor.gif" class="card-img" width="130" height="150"  alt="" />
     </div>
     <div class="col">
           <h3 class="card-title">What I Do</h3>
             <p class="card-text">I'm a passionate and curious software developer who wants to explore every stack and tech there is out there.
                                 I  develop highly interactive Front end / User Interfaces for your web and mobile applications.<br/>
-                                 I write technical articles on medium.com and I'm also a freelance web developer.<br/><br/>Freelance Website Designed by me:<br/>
+                                 I write technical articles on medium.com and I'm also a freelance web developer.<br/><br/>Freelance Website Designed by me:<br/><br/>
                                  > <a href="https://thereyougloww.com">There You Gloww</a><br/>
                                  > <a href="https://joweddingplanners.com">Jo Wedding Planners</a><br/><br/>
                                   I have created Web Apps in Nodejs, Reactjs, Express, CSS, Html.<br/>
@@ -108,10 +108,9 @@ Here are some ideas to get you started:
   <div class="contact">
   <a target="_blank" href="https://github.com/shivamdshon"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/github.svg" width="45" height="45" /></a>
   <a target="_blank" href="https://www.linkedin.com/in/shivamdshon/"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/linkedin.svg" width="45" height="45" /></a>
-  <a target="_blank" href="mailto:ishivamyadav@gmail.com"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/google.svg" width="45" height="45" /></a>
-  <a target="_blank" href="https://medium.com/@shivamdshon"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/medium.svg" width="45" height="45"  /></a>
-  <a target="_blank"  href="https://gitlab.com/shivamdshon"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/gitlab.svg" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.facebook.com/shivamdshon"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/facebook.svg" width="45" height="45"  /></a>   
+  <a target="_blank" href="mailto:ishivamyadav@gmail.com"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/gmail.svg" align="left" width="45" height="45" /></a>
+  <a target="_blank" href="https://https://wa.link/mswzp1/"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/whatsapp.svg" align="left"  width="45" height="45"  /></a>
+  <a target="_blank" href="https://instagram.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/instagram.svg" align="left" width="45" height="45" /></a><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/facebook.svg" width="45" height="45"  /></a>   
   </div>
 </html>
 
