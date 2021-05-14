@@ -89,9 +89,9 @@ Here are some ideas to get you started:
 </a>
 
  
- <a href="https://github.com/shivamdshon/shivamdshon.github.io">
+ <a href="https://ishivamyadav.xyz">
   <!-- Change the `github-readme-stats.shivamdshon.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivamdshon&repo=shivamdshon.github.io&theme=dark" />
+  <img align="center" src="https://github-readme-stats.shivamdshon.vercel.app/api/pin/?username=shivamdshon&repo=shivamdshon.github.io&theme=dark" />
 </a>
 </br>
 
