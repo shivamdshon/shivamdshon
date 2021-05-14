@@ -3,12 +3,11 @@
 
 
  <div class="contact">
-  <a target="_blank" href="https://github.com/shivamdshon"><img src="https://github.com/shivamdshon/about-me/github.svg" align="left" width="45" height="45" /></a>
+  <a target="_blank" href="https://github.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/github.svg" align="left" width="45" height="45" /></a>
   <a target="_blank" href="https://www.linkedin.com/in/shivamdshon/"><img src="https://github.com/shivamdshon/about-me/linkedin.svg"align="left"  width="45" height="45" /></a>
   <a target="_blank" href="mailto:ishivamyadav@gmail.com"><img src="https://github.com/shivamdshon/about-me/google.svg" align="left" width="45" height="45" /></a>
   <a target="_blank" href="https://shivamdshon.medium.com/"><img src="https://github.com/shivamdshon/about-me/medium.svg" align="left"  width="45" height="45"  /></a>
   <a target="_blank" href="https://gitlab.com/shivamdshon"><img src="https://github.com/shivamdshon/about-me/gitlab.svg" align="left" width="45" height="45" /></a>
- <a target="_blank" href="https://stackoverflow.com/users/12005297/j-shaikh?tab=profile"><img src="https://github.com/shivamdshon/about-me/stack-overflow.svg" align="left" width="45" height="45" />  </a>
   </div>    
   
   </br> 
