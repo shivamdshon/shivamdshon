@@ -27,14 +27,14 @@
   <div class="container">
   <div class="row">
     <div class="col">
-      <img align="right" src="https://github.com/shivamdshon/tenor.gif" class="card-img" width="350" height="350"  alt="" />
+      <img align="right" src="https://github.com/shivamdshon/shivamdshon/tenor.gif" class="card-img" width="350" height="350"  alt="" />
     </div>
     <div class="col">
           <h3 class="card-title">What I Do</h3>
             <p class="card-text">I'm a passionate and curious software developer who wants to explore every stack and tech there is out there. 
                                 I  develop highly interactive Front end / User Interfaces for your web and mobile applications.
-                                 I write technical articles on medium.com and I'm also a freelance web developer.
-                                  I have created Web Apps in Nodejs, Reactjs, Express, CSS, Html.
+                                 I write technical articles on medium.com and I'm also a freelance web developer.<br/>
+                                  I have created Web Apps in Nodejs, Reactjs, Express, CSS, Html.<br/>
                                   I'm a fluent C++ programmer.</p>
     </div>
   </div>
