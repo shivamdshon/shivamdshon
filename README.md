@@ -4,10 +4,10 @@
 
  <div class="contact">
   <a target="_blank" href="https://github.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/github.svg" align="left" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/shivamdshon/"><img src="https://github.com/shivamdshon/blob/main/shivamdshon/about-me/linkedin.svg"align="left"  width="45" height="45" /></a>
-  <a target="_blank" href="mailto:ishivamyadav@gmail.com"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/about-me/google.svg" align="left" width="45" height="45" /></a>
-  <a target="_blank" href="https://shivamdshon.medium.com/"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/about-me/medium.svg" align="left"  width="45" height="45"  /></a>
-  <a target="_blank" href="https://gitlab.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/about-me/gitlab.svg" align="left" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/shivamdshon/"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/linkedin.svg"align="left"  width="45" height="45" /></a>
+  <a target="_blank" href="mailto:ishivamyadav@gmail.com"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/google.svg" align="left" width="45" height="45" /></a>
+  <a target="_blank" href="https://shivamdshon.medium.com/"><img src="https://github.com/shivamdshon/shivamdshon/shivamdshon/blob/main/medium.svg" align="left"  width="45" height="45"  /></a>
+  <a target="_blank" href="https://gitlab.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/shivamdshon/blob/main/gitlab.svg" align="left" width="45" height="45" /></a>
   </div>    
   
   </br> 
@@ -27,7 +27,7 @@
   <div class="container">
   <div class="row">
     <div class="col">
-      <img align="right" src="https://github.com/shivamdshon/shivamdshon/blob/main/tenor.gif" class="card-img" width="300" height="350"  alt="" />
+      <img align="right" src="https://github.com/shivamdshon/shivamdshon/blob/main/tenor.gif" class="card-img" width="200" height="250"  alt="" />
     </div>
     <div class="col">
           <h3 class="card-title">What I Do</h3>
