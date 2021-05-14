@@ -27,7 +27,7 @@
   <div class="container">
   <div class="row">
     <div class="col">
-      <img align="right" src="https://github.com/shivamdshon/shivamdshon/blob/main/tenor.gif" class="card-img" width="350" height="350"  alt="" />
+      <img align="right" src="https://github.com/shivamdshon/shivamdshon/blob/main/tenor.gif" class="card-img" width="300" height="350"  alt="" />
     </div>
     <div class="col">
           <h3 class="card-title">What I Do</h3>
