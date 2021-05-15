@@ -20,7 +20,7 @@
 ### [Contact Me](#reach-out-to-me-)    
 
 
-### [See My Resume target="_blank"](https://drive.google.com/file/d/176Og7UgtTcnVdYvmxM1YEMjYFUmgcELu/view?usp=sharing)
+### [See My Resume](https://drive.google.com/file/d/176Og7UgtTcnVdYvmxM1YEMjYFUmgcELu/view?usp=sharing) target="_blank"
 
 <html>
   <div class="container">
