@@ -3,11 +3,11 @@
 
 
  <div class="contact">
-  <a target="_blank" href="https://github.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/github.svg" align="left" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/shivamdshon/"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/linkedin.svg"align="left"  width="45" height="45" /></a>
+  <a target="_blank" href="https://github.com/shivamdshon" target="_blank"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/github.svg" align="left" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/shivamdshon/" target="_blank"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/linkedin.svg"align="left"  width="45" height="45" /></a>
   <a target="_blank" href="mailto:ishivamyadav@gmail.com"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/gmail.svg" align="left" width="45" height="45" /></a>
   <a target="_blank" href="https://https://wa.link/mswzp1/"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/whatsapp.svg" align="left"  width="45" height="45"  /></a>
-  <a target="_blank" href="https://instagram.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/instagram.svg" align="left" width="45" height="45" /></a>
+  <a target="_blank" href="https://instagram.com/shivamdshon" target="_blank"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/instagram.svg" align="left" width="45" height="45" /></a>
   </div>    
   
   </br> 
@@ -20,7 +20,7 @@
 ### [Contact Me](#reach-out-to-me-)    
 
 
-### [See My Resume](https://drive.google.com/file/d/176Og7UgtTcnVdYvmxM1YEMjYFUmgcELu/view?usp=sharing)
+### [See My Resume target="_blank"](https://drive.google.com/file/d/176Og7UgtTcnVdYvmxM1YEMjYFUmgcELu/view?usp=sharing)
 
 <html>
   <div class="container">
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 </a>
 
  
- <a href="https://ishivamyadav.xyz">
+ <a href="https://ishivamyadav.xyz" target="_blank">
   <!-- Change the `github-readme-stats.shivamdshon.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.shivamdshon.vercel.app/api/pin/?username=shivamdshon&repo=shivamdshon.github.io&theme=dark" />
 </a>
@@ -106,11 +106,11 @@ Here are some ideas to get you started:
   </div>
   </br>
   <div class="contact">
-  <a target="_blank" href="https://github.com/shivamdshon"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/github.svg" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/shivamdshon/"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/linkedin.svg" width="45" height="45" /></a>
+  <a target="_blank" href="https://github.com/shivamdshon" target="_blank"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/github.svg" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/shivamdshon/" target="_blank"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/linkedin.svg" width="45" height="45" /></a>
   <a target="_blank" href="mailto:ishivamyadav@gmail.com"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/gmail.svg" align="left" width="45" height="45" /></a>
   <a target="_blank" href="https://https://wa.link/mswzp1/"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/whatsapp.svg" align="left"  width="45" height="45"  /></a>
-  <a target="_blank" href="https://instagram.com/shivamdshon"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/instagram.svg" align="left" width="45" height="45" /></a><a target="_blank" href="https://facebook.com/shivamdshon"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/facebook.svg" width="45" height="45"  /></a>   
+  <a target="_blank" href="https://instagram.com/shivamdshon" target="_blank"><img src="https://github.com/shivamdshon/shivamdshon/blob/main/instagram.svg" align="left" width="45" height="45" /></a><a target="_blank" href="https://facebook.com/shivamdshon" target="_blank"><img align="left" src="https://github.com/shivamdshon/shivamdshon/blob/main/facebook.svg" width="45" height="45"  /></a>   
   </div>
 </html>
 
